@@ -1,2 +1,2 @@
 # Ejercicios-Javascript
-Ejercicios Javascript del Master Prometeo
+Katas Javascript del Master Prometeo.
